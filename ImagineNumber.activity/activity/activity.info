@@ -1,0 +1,8 @@
+[Activity]
+name = ImagineNumber
+activity_version = 1
+bundle_id = org.sugarlabs.ImagineNumber
+exec = sugar-activity activity.ImagineNumberActivity
+icon = activity-imaginenumber
+license = GPLv2+
+repository = debes poner el link de tu repositorio aca
