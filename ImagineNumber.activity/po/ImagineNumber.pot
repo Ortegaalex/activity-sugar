@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-17 15:53-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity.py:88
+msgid "Now add "
+msgstr ""
+
+#: activity.py:89
+msgid "Now subtract "
+msgstr ""
+
+#: activity.py:90
+msgid " to the number you have imagined"
+msgstr ""
+
+#: activity.py:91
+msgid "The final number is "
+msgstr ""
+
+#: activity.py:92
+msgid "I have already added"
+msgstr ""
+
+#: activity.py:93
+msgid "I have already subtracted"
+msgstr ""
+
+#: activity.py:94
+msgid "Imagine a number between 1 and 100"
+msgstr ""
+
+#: activity.py:95
+msgid "Now subtract the number that you have imagined at the beginning"
+msgstr ""
+
+#: activity.py:105
+msgid "Already imagined"
+msgstr ""
+
+#: activity.py:135
+msgid "Play again"
+msgstr ""
